@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnzipExample</string>
+    <string name="RationaleMessage">This app requires storage-related permissions.</string>
+    <string name="DeniedMessage">Please allow storage permissions in settings.</string>
+    <string name="AllowedPermissions">AllowedPermissions</string>
+    <string name="DeniedPermissions">DeniedPermissions</string>
+    <string name="Unzipping">Unzip file..</string>
+</resources>

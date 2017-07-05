@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnzipExample</string>
+    <string name="RationaleMessage">이 앱을 사용하기 위해서는 저장 관련 권한이 필요합니다.</string>
+    <string name="DeniedMessage">설정에서 저장소 권한을 허용해 주세요.</string>
+    <string name="AllowedPermissions">권한허가</string>
+    <string name="DeniedPermissions">권한거부</string>
+    <string name="Unzipping">압축해제중..</string>
+</resources>
